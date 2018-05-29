@@ -1,0 +1,41 @@
+/*
+* Grace Burrus
+* May 8, 2018
+* national center for children in poverty
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* header stuff */
+
+h1{
+	color: #9D4A49;
+	border: 4px dotted #005695; 
+}
+
+h2, h4{
+	color: #556293;
+	text-decoration: underline; 
+}
+/* Put body attributes here */
+
+body { 
+    background-color: #FFFFFF;
+    border: 5px solid black;
+    margin: 30px; 
+    padding: 20px 40px 20px 20px; 
+}
+
+img {
+	padding: 10px 20px 10px 10px;
+	margin: 5 px;
+}
+
+a:link {
+	color: #9FA615;
+}
