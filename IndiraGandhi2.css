@@ -1,0 +1,41 @@
+/* Name:
+*  Date: 
+*  Lab: C13 Fixed Layout Exercise */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1000px;
+    background-color: white;
+    margin: 15px auto;
+    border: 1px solid black;
+}
+
+h1 {
+    padding: 10px;
+    margin: 15px;
+}
+
+header {
+    border-bottom: 2px solid #ef9c00;
+}
+
+main {
+    height: 500px;
+    width: 600px;
+    float: left;
+    border-right: 2px solid #ef9c00;
+}
+
+aside {
+    width: 300px;
+    float: left;
+}
+
+footer {
+    clear: left;
+    border-top: 2px solid #ef9c00;
+}
